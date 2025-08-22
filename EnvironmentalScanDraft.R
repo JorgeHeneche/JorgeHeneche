@@ -1,4 +1,4 @@
-## Code for NU 23MH02 graphs
+## Code for Environmental Scan graphs
 ## By Jorge Heneche
 # ---- Step 1: Install required packages (run only once) ----
 install.packages("tidyverse")   # includes dplyr, ggplot2, tibble, tidyr, readr, etc.
